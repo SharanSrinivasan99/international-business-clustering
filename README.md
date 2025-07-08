@@ -1,4 +1,4 @@
-# 🌍 Business Clustering Analysis – BUSINFO 703
+# 🌍 Determining Next Base of Operation for an Unicorn
 
 In an increasingly globalised market, companies looking to expand internationally need more than just instinct — they need data-backed insights. This project explores how countries compare on key economic factors like GDP per capita, availability of skilled labour, and corporate tax rates. By clustering countries into similar groups, we help businesses identify which regions share strategic traits — whether you're hunting for growth opportunities, benchmarking policies, or just curious where Singapore fits on the global map
 
